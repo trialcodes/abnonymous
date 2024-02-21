@@ -1,0 +1,10 @@
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\bin\Debug\dota2heroes.exe.config
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\bin\Debug\dota2heroes.exe
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\bin\Debug\dota2heroes.pdb
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\bin\Debug\MySql.Data.dll
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.csprojResolveAssemblyReference.cache
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.Form1.resources
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.Properties.Resources.resources
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.csproj.GenerateResource.Cache
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.exe
+C:\Users\SimpleEd\Documents\dota2heroes\dota2heroes\obj\Debug\dota2heroes.pdb
